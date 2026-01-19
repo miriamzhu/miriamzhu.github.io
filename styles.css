@@ -1,0 +1,11 @@
+body {
+  background: #ffe8d6;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+  background-color: black;
+}
